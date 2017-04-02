@@ -1,0 +1,13 @@
+[quake]
+SHOULD_LINEMERGE=false
+NO_BINARY_CHECK=true
+CHARSET=UTF-8
+INDEXED_EXTRACTIONS=json
+KV_MODE=none
+category=Structured
+description=JavaScript Object Notation format. For more information, visit http://json.org/
+disabled=false
+pulldown_type=true
+TZ=UTC
+TIMESTAMP_FIELDS=properties.time
+PREAMBLE_REGEX=FeatureCollection
